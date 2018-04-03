@@ -7,4 +7,4 @@ I decomposed the time series into trend, seasonality and residuals and modeled t
 
 passenger_traffic_submission.py - Input and output format for official submission
 
-passenger_traffic_submission.py - Input from testfile, uses matplotlib to graph the results
+passenger_traffic_plot.py - Input from testfile, uses matplotlib to graph the results
